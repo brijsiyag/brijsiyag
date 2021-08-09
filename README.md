@@ -1,11 +1,5 @@
-
-
-
 <h1 align="center">Hi, visitor, I'm Brijmohan Siyag.
     Welcome to my profile</h1>
-<br/>
-<br/>
-
 <h2>About Me</h2>
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Indian Institute Of Information Technology, JABALPUR
