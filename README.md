@@ -16,17 +16,15 @@
  
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="">    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">    <img src="https://img.shields.io/badge/Npm-DC322F?style=for-the-badge&logo=npm&logoColor=white" alt="">    <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="">
 
-
 <img height="28px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="">    <img height="28px" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="">
     
-    
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brijsiyag&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijsiyag&&layout=compact&show_icons=trueline_height=21&langs_count=10&hide=html,css&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijsiyag&theme=tokyonight">
+</p>
   
+<hr/>
   
-  <hr/>
-  
-  <h2 align="center">Find me on</h2>
+<h2 align="center">Find me on</h2>
 
 <p align="center">
   
@@ -38,12 +36,8 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"/>
   </a>
   
-  <a href="https://www.reddit.com/user/Birjusiyag">
+  <a href="https://www.reddit.com/user/brijsiyag">
     <img alt="Reddit" src="https://img.shields.io/badge/Reddit--_.svg?style=social&logo=reddit"/>
-  </a>
-  
-  <a href="https://www.facebook.com/parkashram.siyag/">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook"/>
   </a>
   <a href="https://www.instagram.com/birjusiyag/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"/>
